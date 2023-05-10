@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+}
+
+.logout {
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: azure;
+  padding: 10px;
+}
